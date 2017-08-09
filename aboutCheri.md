@@ -1,8 +1,9 @@
 
-#<center>簡歷 Curriculum Vitae<br>徐千惠（Chien- Hui HSU）</center>
 
-<br>
-###個人資訊 Personal Details:
+# <center>簡歷 Curriculum Vitae<br>徐千惠（Chien- Hui HSU）</center>
+
+
+## 個人資訊 Personal Details:
 
 <table  border="0">
   <tr>
@@ -14,34 +15,34 @@
     <td align="left" bgcolor="white"> 17 February 1983 </td>
   </tr>
   <tr>
-  	<th align="left" bgcolor="white">學歷 Education :</th>
+    <th align="left" bgcolor="white">學歷 Education :</th>
     <td align="left" bgcolor="white">明志科技大學 視覺傳達系 <br>Visual Communication Design, Ming Chi University Of Technology</td>
   </tr>
   <tr>
-  	<th align="left" bgcolor="white">居住位置 Location :</th>
+    <th align="left" bgcolor="white">居住位置 Location :</th>
     <td align="left" bgcolor="white">新北市 臺灣<br>New Taipei City, Taiwan</td>
   </tr>
   <tr>
-  	<th align="left" bgcolor="white">E- Mail :</th>
+    <th align="left" bgcolor="white">E- Mail :</th>
     <td align="left" bgcolor="white"><a href="mailto:w8757118w@yahoo.com.tw">w8757118w@yahoo.com.tw</a></td>
   </tr>
   <tr>
-  	<th align="left" bgcolor="white">Github:</th>
+    <th align="left" bgcolor="white">Github:</th>
     <td align="left" bgcolor="white"><a href="https://github.com/CheriHsu">https://github.com/CheriHsu</a></td>
   </tr>
   <tr>
-  	<th align="left" bgcolor="white">手機 Mobile :</th>
+    <th align="left" bgcolor="white">手機 Mobile :</th>
     <td align="left" bgcolor="white"> +886 956666073</td>
   </tr>
 </table>
 <br>
 
-##工作經驗 Employment History:
+## 工作經驗 Employment History:
 
-#####香港商雅虎資訊股份有限公司(Yahoo!奇摩)<br>YAHOO! TAIWAN HOLDINGS LIMITED, TAIWAN BRANCH (H.K.)
-  >**工作期間 Date：** 2010/07 -  2013/03 	<br>
-  **職務 Job Title: **網頁視覺設計師 Web Designer <br>
-  **工作內容:**<br>
+#### 香港商雅虎資訊股份有限公司(Yahoo!奇摩)<br>YAHOO! TAIWAN HOLDINGS LIMITED, TAIWAN BRANCH (H.K.)
+  **工作期間 Date：** 2010/07 -  2013/03   <br>
+  **職務 Job Title:** 網頁視覺設計師 Web Designer <br>
+  **工作內容:**
   - 與產品經理PM協調、文字潤稿<br>
   - Photoshop進行活動頁發想設計 <br>
   - 網頁切版<br>
@@ -50,10 +51,10 @@
 
 <br>
 
-#####臺北市政府產發局-2010花博營運總部<br>Department of Economic Development, Taipei City Government
-  >**工作期間 Date：** 2009/05 -  2010/04  <br>
-  **職務 Job Title: **網站管理-網頁設計 Web Designer <br>
-  **工作內容:**<br>
+#### 臺北市政府產發局-2010花博營運總部<br>Department of Economic Development, Taipei City Government
+  **工作期間 Date：** 2009/05 -  2010/04  <br>
+  **職務 Job Title:** 網站管理-網頁設計 Web Designer <br>
+  **工作內容:**
   - 發想創意製作Flash動畫與活動專案網頁製作<br> 
   - 與文案企劃、業務、程式人員配合，並將文案整合製作網站頁面規劃<br> 
   - 視覺設計與系統網站的維護<br> 
@@ -61,9 +62,10 @@
 
 <br>
 
-#####婕誠實業有限公司
-  >**工作期間 Date：** 2007/04 -  2008/04  <br>
-  **職務 Job Title: **美編/網頁設計 Graphic/Web Designer <br>
+#### 婕誠實業有限公司
+  **工作期間 Date：** 2007/04 -  2008/04  <br>
+  **職務 Job Title:** 美編/網頁設計 Graphic/Web Designer <br>
+  **工作內容:**
    - 商品拍照<br>
    - 網頁設計<br>
    - DM、海報設計、彩盒平面設計<br>
@@ -71,69 +73,71 @@
 
 <br>
 
-#####茱莉亞廣告傳播有限公司
-  >**工作期間 Date：** 2006/10 -  2007/03 <br>
-  **職務 Job Title: **美編/網頁設計 Graphic/Web Designer <br>
+#### 茱莉亞廣告傳播有限公司
+  **工作期間 Date：** 2006/10 -  2007/03 <br>
+  **職務 Job Title:** 美編/網頁設計 Graphic/Web Designer <br>
+  **工作內容:**
    - 名片、海報DM、型錄、背版設計、宣傳品等印刷完稿<br>
    - 活動協助<br>
 
 <br>
 
-#####(永準)亨翰貿易股份有限公司
-  >**工作期間 Date：** 2005/05 -  2006/06 <br> 
-  **職務 Job Title: **企劃設計助理  Marketing/Design Assistant <br>
+#### (永準)亨翰貿易股份有限公司
+  **工作期間 Date：** 2005/05 -  2006/06 <br> 
+  **職務 Job Title:** 企劃設計助理  Marketing/Design Assistant <br>
+  **工作內容:**
    - 海報修改、設計、手冊編排完稿<br>
    - 網頁Banner設計<br>
    - 活動協助<br>
 
 <br>
 
-##技能Skills:
+## 技能Skills:
 
-####HTML/CSS
+#### HTML/CSS
 - 瞭解 HTML 語意，能夠使用 CSS 做出網頁排版切版<br>
 - 製作 RWD 響應式設計。<br> 
 - 利用 CSS3 做出動畫效果。<br>
 - 使用 SASS 規劃 Web layout 架構。<br> 
 - boostrap入門瞭解<br><br>
 
-####Javascript/Framework
+#### Javascript/Framework
 - 瞭解 Javascript 基礎觀念。<br>
 - 使用 jQuery 製作動畫效果,套用 plugin。<br>
 - 介接第三方 API (Google Map API)。<br>
 - 利用 AJAX 撈取 JSON 、XML 資料並顯示在網頁上。<br>
 - 曾用react框架做切版<br><br>
 
-####Photoshop/Illustrator
+#### Photoshop/Illustrator
 - 熟悉平面設計編排、完稿<br> 
 - 插畫上色<br>  <br>
 
-####Git/GitHub
+#### Git/GitHub
 - 瞭解 Git / Github 基本指令。<br>
 - 對 Git 版本控制有基礎的了解，抓取遠端資料庫到本機進行作業、推送到遠端資料庫。<br><br>
-####PHP/MySQL
+#### PHP/MySQL
 - 基本觀念瞭解<br><br>
 
-####AfterEffect/Premiere
+#### AfterEffect/Premiere
 - 影片剪輯、特效製作<br><br>
 
-####3DsMAX
+#### 3DsMAX
 - 建模、動畫套用<br><br>
 
-####Flash
+#### Flash
 - 基本動畫<br><br>
 
-####Sublime/Dreamweaver
+#### Sublime/Dreamweaver
 - 語法編輯器操作<br><br>
 
-####語言能力 Language
+#### 語言能力 Language
 - **英文:** 中等 ( IELTS雅思英文檢定 聽: 5.5 說: 5 讀: 5 寫: 6 總分: 5.5 )<br> 
 - **中文:** 精通<br>
 - **台語:** 中等<br><br>
 
 
 
-##作品Portfolio
+## 作品Portfolio
 **1. 2017年資策會WEB前端工程師班- 團體專題網站作品:**<br>
 <a href="http://140.115.236.72/demo-projects/AD105/AD105G2/index/index.php">**[ 攤吃貨 ]   http://140.115.236.72/demo-projects/AD105/AD105G2/index/index.php >>**</a><br>
 
@@ -182,7 +186,7 @@
 <br><br> 
 
 
-##自我介紹Introduction
+## 自我介紹Introduction
 自大學期間與畢業後從事平面設計工作，自學轉為網頁設計，這些工作歷程已有將近七年，在面臨Flash網頁動畫將被淘汰，手機上網漸漸盛行之時選擇離開安逸的舒適圈，去一生僅有一次的澳洲打工度假兩年，回到台灣隨即進修英文，規劃去澳洲進修前端工程技術，但因種種因素後來選擇在臺灣資策會做前端技術的進修，希望自己能成一名專業的前端工程師。
 
 相信以往的工作經驗能讓自己更容易成為不僅是只有技術的前端工程師，從團隊的合作經驗來說，與專案經理PM的協調，到對設計師的瞭解更能有效的溝通，有效達成團隊目標；在技術面上從切版時的layout排版有一定的設計感、組織架構也清晰有概念，手刻的動畫的經驗能讓作品更為驚艷。
