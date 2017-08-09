@@ -2,8 +2,8 @@
 
 # <center>簡歷 Curriculum Vitae<br>徐千惠（Chien- Hui HSU）</center>
 
-<br>
-### 個人資訊 Personal Details:
+
+## 個人資訊 Personal Details:
 
 <table  border="0">
   <tr>
@@ -40,7 +40,7 @@
 ## 工作經驗 Employment History:
 
 ##### 香港商雅虎資訊股份有限公司(Yahoo!奇摩)<br>YAHOO! TAIWAN HOLDINGS LIMITED, TAIWAN BRANCH (H.K.)
-  >**工作期間 Date：** 2010/07 -  2013/03 	<br>
+  **工作期間 Date：** 2010/07 -  2013/03 	<br>
   **職務 Job Title: **網頁視覺設計師 Web Designer <br>
   **工作內容:**<br>
   - 與產品經理PM協調、文字潤稿<br>
@@ -52,7 +52,7 @@
 <br>
 
 ##### 臺北市政府產發局-2010花博營運總部<br>Department of Economic Development, Taipei City Government
-  >**工作期間 Date：** 2009/05 -  2010/04  <br>
+  **工作期間 Date：** 2009/05 -  2010/04  <br>
   **職務 Job Title: **網站管理-網頁設計 Web Designer <br>
   **工作內容:**<br>
   - 發想創意製作Flash動畫與活動專案網頁製作<br> 
@@ -63,7 +63,7 @@
 <br>
 
 ##### 婕誠實業有限公司
-  >**工作期間 Date：** 2007/04 -  2008/04  <br>
+  **工作期間 Date：** 2007/04 -  2008/04  <br>
   **職務 Job Title: **美編/網頁設計 Graphic/Web Designer <br>
    - 商品拍照<br>
    - 網頁設計<br>
@@ -73,7 +73,7 @@
 <br>
 
 ##### 茱莉亞廣告傳播有限公司
-  >**工作期間 Date：** 2006/10 -  2007/03 <br>
+  **工作期間 Date：** 2006/10 -  2007/03 <br>
   **職務 Job Title: **美編/網頁設計 Graphic/Web Designer <br>
    - 名片、海報DM、型錄、背版設計、宣傳品等印刷完稿<br>
    - 活動協助<br>
@@ -81,7 +81,7 @@
 <br>
 
 ##### (永準)亨翰貿易股份有限公司
-  >**工作期間 Date：** 2005/05 -  2006/06 <br> 
+  **工作期間 Date：** 2005/05 -  2006/06 <br> 
   **職務 Job Title: **企劃設計助理  Marketing/Design Assistant <br>
    - 海報修改、設計、手冊編排完稿<br>
    - 網頁Banner設計<br>
