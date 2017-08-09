@@ -137,7 +137,7 @@
 **1. 2017年資策會WEB前端工程師班- 團體專題網站作品:**<br>
 <a href="http://140.115.236.72/demo-projects/AD105/AD105G2/index/index.php">**[ 攤吃貨 ]   http://140.115.236.72/demo-projects/AD105/AD105G2/index/index.php >>**</a><br>
 
->**工作內容:**<br>
+**工作內容:**<br>
   - 企劃架構 <br>
   - 首頁的illustrator扁平視覺、html+css3切版、RWD、svg css3動畫、javascript、jQuery互動<br>
   - GOOGLE  MAP  API 串接、MARKER定位 、Ajax撈取XML資料<br>
@@ -148,7 +148,7 @@
 **2. 2017年電商網站設計- 獨立製作作品:**<br>
 <a href="https://cherihsu.github.io/ESCAPE/#gsc.tab=0">**[ ESCAPE 逃避現實 ]   https://cherihsu.github.io/ESCAPE/#gsc.tab=0 >>**</a><br>
 
->**工作內容:**<br>
+**工作內容:**<br>
   - 企劃架構 <br>
   - UI設計<br>
   - html+css3切版、RWD、css3動畫、jQuery、javascript互動、javascript localstorage購物車<br>
@@ -158,7 +158,7 @@
 **3. 2013年前網頁設計:**<br>
 <a href="http://cheryl-design.byethost15.com/">**[ 工作作品集 ]   http://cheryl-design.byethost15.com >>**</a><br>
 
->**工作內容:**<br>
+**工作內容:**<br>
   - 與產品經理PM協調、文字潤稿<br>
   - Photoshop進行活動頁發想設計 <br>
   - 網頁切版<br>
@@ -171,7 +171,7 @@
 **4. 2009年前設計作品集:**<br>
 <a href="http://cheryl-design.byethost15.com/portfolio/index.html">**[ 設計作品集 ]   http://cheryl-design.byethost15.com/portfolio/index.html >>**</a><br>
 
->**工作內容:**<br>
+**工作內容:**<br>
   - Flash網站製作<br>
   - Photoshop、Illustrator平面設計完稿<br>
   - 手繪插畫<br>
