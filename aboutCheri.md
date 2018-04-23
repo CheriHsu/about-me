@@ -1,6 +1,6 @@
 
 
-# <center>簡歷 Curriculum Vitae<br>徐千惠（Chien- Hui HSU）</center>
+# <center>簡歷 Curriculum Vitae<br>徐千惠（ HSU, Chien- Hui ）</center>
 
 
 ## 個人資訊 Personal Details:
