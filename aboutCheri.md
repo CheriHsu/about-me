@@ -49,6 +49,7 @@
   - 使用GIT版本控制 <br>
 
 <br>
+
 #### 香港商雅虎資訊股份有限公司(Yahoo!奇摩)<br>Department of Economic Development, Taipei City Government
   **工作期間 Date：** 2009/05 -  2010/04  <br>
   **職務 Job Title:** 網站管理-網頁設計 Web Designer <br>
