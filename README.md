@@ -15,23 +15,23 @@
     <td align="left" bgcolor="white"> 17 February 1983 </td>
   </tr>
   <tr>
-  	<th align="left" bgcolor="white">學歷 Education :</th>
+    <th align="left" bgcolor="white">學歷 Education :</th>
     <td align="left" bgcolor="white">明志科技大學 視覺傳達系 <br>Visual Communication Design, Ming Chi University Of Technology</td>
   </tr>
   <tr>
-  	<th align="left" bgcolor="white">居住位置 Location :</th>
+    <th align="left" bgcolor="white">居住位置 Location :</th>
     <td align="left" bgcolor="white">新北市 臺灣<br>New Taipei City, Taiwan</td>
   </tr>
   <tr>
-  	<th align="left" bgcolor="white">E- Mail :</th>
+    <th align="left" bgcolor="white">E- Mail :</th>
     <td align="left" bgcolor="white"><a href="mailto:w8757118w@yahoo.com.tw">w8757118w@yahoo.com.tw</a></td>
   </tr>
   <tr>
-  	<th align="left" bgcolor="white">Github:</th>
+    <th align="left" bgcolor="white">Github:</th>
     <td align="left" bgcolor="white"><a href="https://github.com/CheriHsu">https://github.com/CheriHsu</a></td>
   </tr>
   <tr>
-  	<th align="left" bgcolor="white">手機 Mobile :</th>
+    <th align="left" bgcolor="white">手機 Mobile :</th>
     <td align="left" bgcolor="white"> +886 956666073</td>
   </tr>
 </table>
@@ -39,15 +39,24 @@
 
 ## 工作經驗 Employment History:
 
-#### 香港商雅虎資訊股份有限公司(Yahoo!奇摩)<br>YAHOO! TAIWAN HOLDINGS LIMITED, TAIWAN BRANCH (H.K.)
-  **工作期間 Date：** 2010/07 -  2013/03 	<br>
-  **職務 Job Title:** 網頁視覺設計師 Web Designer <br>
+#### 智付寶股份有限公司<br>PAY2GO TECHNOLOGY CORPORATION
+  **工作期間 Date：** 2017/09 -  至今   <br>
+  **職務 Job Title:** 網頁前端工程師 Front-End Engineer <br>
   **工作內容:**
-  - 與產品經理PM協調、文字潤稿<br>
-  - Photoshop進行活動頁發想設計 <br>
-  - 網頁切版<br>
-  - 板頭FLASH動畫設計<br>
-  - Banner設計<br>
+  - 與產品經理PM協調、後端工程師API資料串接<br>
+  - JavaScript、HTML5、CSS3、Bootstrap、RWD 網頁切版開發<br>
+  - 網站前端介面開發、維護、優化<br>
+  - 使用GIT版本控制 <br>
+
+<br>
+#### 香港商雅虎資訊股份有限公司(Yahoo!奇摩)<br>Department of Economic Development, Taipei City Government
+  **工作期間 Date：** 2009/05 -  2010/04  <br>
+  **職務 Job Title:** 網站管理-網頁設計 Web Designer <br>
+  **工作內容:**
+  - 發想創意製作Flash動畫與活動專案網頁製作<br> 
+  - 與文案企劃、業務、程式人員配合，並將文案整合製作網站頁面規劃<br> 
+  - 視覺設計與系統網站的維護<br> 
+  - 花博電子報設計<br>  
 
 <br>
 
